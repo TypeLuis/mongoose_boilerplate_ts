@@ -13,4 +13,4 @@
 - `npm run dev`
 
 
-# Test route is mearly there for testing and refrencing
+# Test route is merely there for testing and referencing.
