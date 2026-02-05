@@ -3,9 +3,11 @@
 
 - `git clone https://github.com/TypeLuis/mongoose_boilerplate_ts.git . && rm -rf .git` 
 
-<!-- - # Important to add values to `.env` and add `.env` inside of `.gitignore` -->
 
-- `cp .env.example .env` & populate env
+
+
+- `npm run env` & populate env,  
+**node -e in package.json means to evaluate the JS code. makes it so we do have to create a file**
 
 
 - `npm i`
